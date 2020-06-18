@@ -7,4 +7,3 @@ class Artist
     
 end 
 
-drake = Artist.new("Drake")
