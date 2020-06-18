@@ -5,4 +5,9 @@ class Song
     @title = title
   end 
   
+  def artist
+    @artist = self.artist.new
+  end 
+  
+  
 end 
