@@ -8,3 +8,4 @@ class Song
 end 
 
 hotline_bling = Song.new("hotline_bling")
+hotline_bling.artist = drake
